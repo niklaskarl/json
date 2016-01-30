@@ -9,7 +9,7 @@ using System.Resources;
 using System.Reflection;
 
 [assembly: AssemblyTitle("NiklasKarl.Json")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A fast and simple JSON parser and storer.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Niklas Karl")]
 [assembly: AssemblyProduct("NiklasKarl.Json")]
