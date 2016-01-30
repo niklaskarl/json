@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------
 // <copyright file="JsonValueType.cs" company="Niklas Karl">
-//     Copyright © Niklas Karl 2015
+//     Copyright © Niklas Karl 2016
 // </copyright>
 //-----------------------------------------------------------------------
 
